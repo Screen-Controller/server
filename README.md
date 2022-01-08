@@ -1,4 +1,4 @@
-# server
+# Server
 
 Server code for the screen controller platform
 

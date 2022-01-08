@@ -2,7 +2,7 @@
   "name": "server",
   "version": "1.0.0",
   "main": "src/main.js",
-  "repository": "",
+  "repository": "https://github.com/Screen-Controller/server",
   "author": "Joshua Sanderson",
   "license": "MIT",
   "private": "true",
