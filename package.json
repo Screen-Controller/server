@@ -1,0 +1,11 @@
+{
+  "name": "server",
+  "version": "0.0.1",
+  "description": "Billboard software for TVs and computers",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "server",
+    "ui"
+  ]
+}
